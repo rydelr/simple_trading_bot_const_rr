@@ -1,0 +1,1 @@
+This project contains simple trading bot on binance
