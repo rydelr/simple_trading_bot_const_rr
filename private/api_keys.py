@@ -2,7 +2,7 @@ import json
 
 def keyapi():
     # path = input("Paste file location. If not exist, paste location where would you like to be your API Keys stored: ")
-    print("create saving path to config file")
+    print("api_keys.py: Create saving path to API in config file.")
     path = "C:/Users/Lenovo/private"
     while True:
         try:
